@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: IITH
-// Engineer: 
+// Engineer: Himanshu Yadav
 // 
 // Create Date: 14.06.2022 23:07:41
 // Design Name: 
 // Module Name: top
-// Project Name: 
-// Target Devices: 
+// Project Name: 16x2 LCD Hello
+// Target Devices: Zedboard
 // Tool Versions: 
 // Description: 
 // 
@@ -15,7 +15,7 @@
 // 
 // Revision:
 // Revision 0.01 - File Created
-// Additional Comments:
+// Additional Comments: This works perfectly and prints hello on the LCD
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
