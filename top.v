@@ -66,7 +66,7 @@ module lcd_top(
              180000:  begin LCD_RS = 1'b1; DATA <= 8'h0x20;end  //SPACE
              180100:      LCD_E <= 1'b1;
              180300:      LCD_E <= 1'b0;
-             3000000:  begin LCD_RS = 1'b0; DATA <= 8'h0x01;end  //SPACE
+             3000000:  begin LCD_RS = 1'b0; DATA <= 8'h0x01;end  //HOME
              3000100:      LCD_E <= 1'b1;
              3000300:      LCD_E <= 1'b0;
               default: ;         
